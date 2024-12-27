@@ -6,6 +6,7 @@ OwaspJuiceShop_Project
 
 ## 1. Enumeration to Find Admin Path
 
+![Screenshot 2024-12-27 203330](https://github.com/user-attachments/assets/a89661fd-a4fd-4305-b488-a2169c95bd55)
 
 
 
