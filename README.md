@@ -26,8 +26,18 @@ OwaspJuiceShop_Project
 ## 3. XSS in Product Search
 
 ![1](https://github.com/user-attachments/assets/68392522-d557-49ee-8779-dc79a43c3c04)
+
 *Made unvalidated redirect (whitelist) to bitcoin site*
+
+
 ![2](https://github.com/user-attachments/assets/1e43a935-a905-4565-bc57-be5d3e45a35e)
+
 *Used xss on search bar to send alert*
+
 ![3](https://github.com/user-attachments/assets/9f9f7508-3d8d-441b-80ea-99f8ea1d0610)
+
 *Used script to steal cookies from user*
+
+![4](https://github.com/user-attachments/assets/47561287-c7e4-4280-9030-d635cceefc08)
+
+*Redirect user by xss to soundcloud song*
