@@ -6,6 +6,10 @@ OwaspJuiceShop_Project
 
 ## 1. Enumeration to Find Admin Path
 
+
+
+
+
 ![Screenshot 2024-12-27 203330](https://github.com/user-attachments/assets/a89661fd-a4fd-4305-b488-a2169c95bd55)
 
 
@@ -31,6 +35,10 @@ OwaspJuiceShop_Project
 
 
 ## 2. Brute Force on Admin Credentials
+
+
+
+
 
 ![1](https://github.com/user-attachments/assets/972a378b-62d2-41ea-ad86-154b704871c9)
 
@@ -70,10 +78,7 @@ OwaspJuiceShop_Project
 
 ## 3. XSS in Product Search
 
-![1](https://github.com/user-attachments/assets/68392522-d557-49ee-8779-dc79a43c3c04)
 
-
-*Made unvalidated redirect (whitelist) to bitcoin site*
 
 
 ![2](https://github.com/user-attachments/assets/1e43a935-a905-4565-bc57-be5d3e45a35e)
@@ -92,4 +97,33 @@ OwaspJuiceShop_Project
 
 
 *Redirect user by xss to soundcloud song*
+
+
+## 4. Bonus Attacks
+
+
+![1](https://github.com/user-attachments/assets/68392522-d557-49ee-8779-dc79a43c3c04)
+
+
+*Made unvalidated redirect (whitelist) to bitcoin site*
+
+
+![5555555](https://github.com/user-attachments/assets/5a7296d2-f655-4127-96b6-5039f274fbc5)
+
+
+*Sql injection :: use sql injections(admin' or 1=1;")to login as admin and have admin control*
+
+
+![444444444444444444](https://github.com/user-attachments/assets/13e8b7bd-9347-42cc-ab1f-a8d3e43f1e73)
+
+
+*Improper inpute validation*
+
+
+![99999](https://github.com/user-attachments/assets/528a3fdc-29f3-4e6f-a825-075cf56c2dca)
+
+
+*Reading privacy policy for this website*
+
+
 
