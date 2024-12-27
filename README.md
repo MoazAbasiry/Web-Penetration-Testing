@@ -21,13 +21,13 @@ OwaspJuiceShop_Project
 ![Screenshot 2024-12-27 175624](https://github.com/user-attachments/assets/299e9b0e-3b01-4bc8-968a-625709c9f870)
 
 
-**
+*Discovering any bug in source code using debugger in inspect (Devolper mode) and searching for any path to access as an admin*
 
 
 ![Screenshot 2024-12-27 175455](https://github.com/user-attachments/assets/0f3c01d7-4295-40ef-a3b4-d759935282ea)
 
 
-**
+*Use localhost:3000/Administration after finding it and access in admin control page*
 
 
 ## 2. Brute Force on Admin Credentials
