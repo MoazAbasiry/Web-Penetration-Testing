@@ -9,13 +9,13 @@ OwaspJuiceShop_Project
 ![Screenshot 2024-12-27 203330](https://github.com/user-attachments/assets/a89661fd-a4fd-4305-b488-a2169c95bd55)
 
 
-*Using FufF (Fuzzing tool) to find hidden URL's that can make me access the website as an admin*
+*Using Ffuf (Fuzzing tool) to find hidden URL's that can make me access the website as an admin*
 
 
 ![Screenshot 2024-12-27 203346](https://github.com/user-attachments/assets/3869c20c-3206-4043-9f6a-3544ed10103d)
 
 
-**
+*The output of searching process with filter (grip admin) to make search easier*
 
 
 ![Screenshot 2024-12-27 175624](https://github.com/user-attachments/assets/299e9b0e-3b01-4bc8-968a-625709c9f870)
