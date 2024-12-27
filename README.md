@@ -2,7 +2,7 @@
 OwaspJuiceShop_Project
 
 
-# شرح للنقاط الأساسية
+
 
 ## 1. Enumeration to Find Admin Path
 
