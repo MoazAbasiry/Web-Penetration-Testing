@@ -5,7 +5,9 @@ OwaspJuiceShop_Project
 
 
 ## 1. Enumeration to Find Admin Path
-![Uploading Screenshot 2024-12-27 203330.png…]()
+
+
+
 
 
 ## 2. Brute Force on Admin Credentials
